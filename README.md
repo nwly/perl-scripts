@@ -2,4 +2,4 @@
 Random perl scripts
 
 ###
-chlookup.pl - Look up Cantonese and Mandarin pronunciations from the command-line.
+<code>chlookup.pl</code> - Look up Cantonese and Mandarin pronunciations from the command-line.
